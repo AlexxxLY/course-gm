@@ -1,0 +1,10 @@
+{
+    "name": "jomedia/file",
+    "description": "JoMedia courses. Lesson 2: FileSystem",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0": {"JoMedia\\File": "src/"}
+    }
+}
